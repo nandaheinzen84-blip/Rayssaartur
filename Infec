@@ -1,0 +1,87 @@
+index.html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>6 anos de nós</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Georgia, serif;
+      background: #f6f3ef;
+      margin: 0;
+      padding: 0;
+      color: #2f2f2f;
+    }
+    .container {
+      max-width: 700px;
+      margin: auto;
+      padding: 30px 20px;
+      line-height: 1.7;
+    }
+    h1 {
+      text-align: center;
+      font-weight: normal;
+    }
+    .date {
+      text-align: center;
+      font-size: 14px;
+      color: #777;
+      margin-bottom: 40px;
+    }
+    p {
+      margin-bottom: 20px;
+      text-align: justify;
+    }
+    .assinatura {
+      margin-top: 50px;
+      text-align: right;
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>6 anos de nós</h1>
+    <div class="date">04 de janeiro de 2026</div>
+
+    <p>
+      Escolher você foi escolher caminhar com alguém que me vê inteira.
+      Nos dias leves, nos dias cansados, nos dias em que o mundo pareceu pesado demais.
+    </p>
+
+    <p>
+      Ouvi esses dias que a pessoa que a gente escolhe pra passar a vida
+      vai nos ver no dia em que perdemos nossos pais, no dia do parto,
+      no dia ruim, no dia em que a gente não tem forças nem pra explicar.
+      E você esteve em todos eles.
+    </p>
+
+    <p>
+      Em seis anos, a vida nos atravessou sem pedir licença.
+      Mudamos, crescemos, caímos, levantamos.
+      E mesmo quando tudo parecia bagunçado,
+      você ficou.
+    </p>
+
+    <p>
+      Não é sobre perfeição.
+      É sobre presença.
+      Sobre mãos dadas quando o silêncio fala mais alto.
+      Sobre escolher, todos os dias, continuar.
+    </p>
+
+    <p>
+      Obrigada por ser casa quando o mundo pesa,
+      por ser apoio quando eu fraquejo
+      e por dividir comigo uma vida real,
+      com amor, falhas, aprendizado e verdade.
+    </p>
+
+    <div class="assinatura">
+      Com amor,<br>
+      Rayssa
+    </div>
+  </div>
+</body>
+</html>
